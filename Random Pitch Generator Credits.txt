@@ -1,0 +1,12 @@
+Credits for baseball random pitch generator
+
+- Baseball sprite -
+Image by <a href="https://pixabay.com/users/clker-free-vector-images-3736/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=38208">Clker-Free-Vector-Images</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=38208">Pixabay</a>
+
+Image by Clker-Free-Vector-Images from Pixabay
+
+
+- Baseball Field -
+Image by <a href="https://pixabay.com/users/paulbr75-2938186/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1548348">Paul Brennan</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1548348">Pixabay</a>
+
+Image by Paul Brennan from Pixabay
