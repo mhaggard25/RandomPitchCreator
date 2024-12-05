@@ -45,7 +45,7 @@ void main() {
   print('Here is a list of available pitches: ');
 
   for (var i = 0; i < pitches.length; i++) {
-    print(i.toString() + '. ' + pitches[i]);
+    print('$i. ${pitches[i]}');
   }
   print('18. FINISHED ADDING PITCHES');
 
@@ -71,7 +71,7 @@ void main() {
   }
 
   // Game loop
-  var userMenu;
+  int userMenu;
   var pitchCounter = 0;
 
   print('\n\n');
@@ -96,20 +96,14 @@ void main() {
 
       // Tell the user where to throw the pitch.
       if (randomLocation == 0) {
-        print('\nYou should throw a ' +
-            userPitcher[randomPitch] +
-            ' ' +
-            'middle-middle');
+        print('${'\nYou should throw a ' +
+            userPitcher[randomPitch]} middle-middle');
       } else {
-        print('\nYou should throw a ' +
-            userPitcher[randomPitch] +
-            ' ' +
-            strikeZoneStatus[randomStrikeZoneStatus] +
-            ' and ' +
-            locations[randomLocation]);
+        print('${'\nYou should throw a ' +
+            userPitcher[randomPitch]} ${strikeZoneStatus[randomStrikeZoneStatus]} and ${locations[randomLocation]}');
       }
 
-      print('\nPitch counter: ' + pitchCounter.toString());
+      print('\nPitch counter: $pitchCounter');
     } else if (userMenu == 1) {
       userPitcher.clear();
       userPitchSelection = -1;
