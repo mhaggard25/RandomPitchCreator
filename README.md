@@ -1,0 +1,1 @@
+This program allows the user to input the pitches that their pitcher has and randomly selects from that list and randomly selects a location and suggests a pitch for that user to throw when playing a baseball game.
